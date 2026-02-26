@@ -5,7 +5,7 @@ A Todo List web application built using Django. Users can add, update, delete. T
 
 ---
 
-## 🚀 Features
+Features
 
 - Add new tasks
 - Update existing tasks
@@ -14,7 +14,7 @@ A Todo List web application built using Django. Users can add, update, delete. T
 
 ---
 
-## 🛠 Tech Stack
+ Tech Stack
 
 - Python
 - Django
@@ -24,7 +24,7 @@ A Todo List web application built using Django. Users can add, update, delete. T
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 
 django-todo-app/
 │
@@ -36,7 +36,7 @@ django-todo-app/
 
 ---
 
-## ▶️ How to Run This Project
+ How to Run This Project
 
 1. Clone the repository
 git clone https://github.com/hellygajjar87/django-todo-app.git
@@ -49,7 +49,7 @@ http://127.0.0.1:8000/
 
 
 
-## 📌 Author
+ Author
 
 Helly Gajjar
    
